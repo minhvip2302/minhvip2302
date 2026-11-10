@@ -1,12 +1,12 @@
 <p align="center">
-  <h1>Hi there, I'm Minh! 👋</h1>
-  <p><b>Full-stack Software Engineer & Founder of Hoàn Ngay</b></p>
-  <img src="https://komarev.com/ghpvc/?username=minhvip2302&color=blueviolet&style=flat-square" alt="Views" />
+  <h1>Xin chào, tôi là Minh! 👋</h1>
+  <p><b>Kỹ sư Phần mềm & Lập trình viên sáng lập Hoàn Ngay</b></p>
+  <img src="https://komarev.com/ghpvc/?username=minhvip2302&color=blueviolet&style=flat-square" alt="Lượt xem" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack (Hoàn Ngay Platform)
+### 🛠️ Công nghệ sử dụng (Hệ thống Hoàn Ngay)
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Dự án tiêu biểu
 
 #### 🛍️ [Hoàn Ngay (hoanngay.vn)](https://hoanngay.vn/)
 *Nền tảng hoàn tiền tự động thông minh cho người mua sắm online tại Việt Nam.*
